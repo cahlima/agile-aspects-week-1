@@ -5,15 +5,15 @@
 
 export class Allergies {
   constructor() {
-    throw new Error('Remove this statement and implement this function');
+    throw new Error();
   }
 
   list() {
-    throw new Error('Remove this statement and implement this function');
+    throw new Error();
   }
 
   allergicTo() {
-    throw new Error('Remove this statement and implement this function');
+    throw new Error();
   }
 }
 
